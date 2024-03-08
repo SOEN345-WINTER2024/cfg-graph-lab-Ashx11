@@ -1,0 +1,12 @@
+
+
+
+Calculator App
+
+img.jpeg!
+
+Total nodes: The decision node + nodes for each button (10 number buttons, 4 operation buttons, 1 clear button, 1 equals button) = 1 + 10 + 4 + 1 + 1 = 17 nodes.
+Nodes covered by the described test paths: Assuming each test path covers a different node and all nodes have at least one test path, then all 17 nodes would be covered.
+Node Coverage %=(17/17​
+ )×100=100%
+step 3: There are 33 edges in total, and all 33 have been covered by the test paths. So coverage is 100% again.
